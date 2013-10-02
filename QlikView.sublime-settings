@@ -2,5 +2,6 @@
 	"extensions":
 	[
 		"qvs"
-	]
+	],
+	"default_encoding": "Western (Windows 1252)"
 }
